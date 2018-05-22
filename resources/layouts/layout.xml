@@ -1,0 +1,5 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="center" y="center" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="FFAA00" /><label
+    	id="HelloLabel" x="center" y="150" color="550000" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER">
+</label>
+</layout>
