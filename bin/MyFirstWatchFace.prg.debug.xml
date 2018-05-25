@@ -7,130 +7,162 @@
 <entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceApp.mc" lineNum="14" pc="268435484" symbol="onStop"/>
 <entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceApp.mc" lineNum="18" pc="268435489" symbol="getInitialView"/>
 <entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceApp.mc" lineNum="19" pc="268435493" symbol="getInitialView"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="13" pc="268435531" symbol="initialize"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="14" pc="268435535" symbol="initialize"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="18" pc="268435554" symbol="onLayout"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="19" pc="268435558" symbol="onLayout"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="20" pc="268435595" symbol="onLayout"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="21" pc="268435620" symbol="onLayout"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="22" pc="268435645" symbol="onLayout"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="28" pc="268435671" symbol="onShow"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="32" pc="268435676" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="34" pc="268435680" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="35" pc="268435697" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="36" pc="268435714" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="37" pc="268435724" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="38" pc="268435734" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="39" pc="268435745" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="41" pc="268435758" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="42" pc="268435832" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="43" pc="268435856" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="46" pc="268435870" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="49" pc="268435890" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="50" pc="268435930" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="51" pc="268435954" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="53" pc="268435998" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="55" pc="268436039" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="56" pc="268436063" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="58" pc="268436113" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="60" pc="268436160" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="61" pc="268436184" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="63" pc="268436234" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="65" pc="268436281" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="66" pc="268436305" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="68" pc="268436355" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="70" pc="268436402" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="71" pc="268436426" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="73" pc="268436476" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="75" pc="268436523" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="76" pc="268436540" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="78" pc="268436590" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="82" pc="268436637" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="83" pc="268436661" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="85" pc="268436717" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="87" pc="268436770" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="88" pc="268436794" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="90" pc="268436850" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="92" pc="268436903" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="93" pc="268436927" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="95" pc="268436983" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="97" pc="268437036" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="98" pc="268437053" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="100" pc="268437109" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="104" pc="268437162" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="105" pc="268437193" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="106" pc="268437275" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="107" pc="268437363" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="108" pc="268437451" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="109" pc="268437539" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="110" pc="268437627" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="113" pc="268437715" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="114" pc="268437746" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="115" pc="268437837" symbol="onUpdate"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="121" pc="268437938" symbol="onHide"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="125" pc="268437943" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="129" pc="268437948" symbol="onEnterSleep"/>
-<entry filename="Rez" lineNum="18" pc="268437953" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="22" pc="268437965" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="23" pc="268438121" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="24" pc="268438146" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="25" pc="268438198" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="26" pc="268438244" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="27" pc="268438385" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="28" pc="268438410" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="31" pc="268438462" symbol="WatchFace"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="16" pc="268435531" symbol="initialize"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="17" pc="268435535" symbol="initialize"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="21" pc="268435554" symbol="onLayout"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="22" pc="268435558" symbol="onLayout"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="23" pc="268435595" symbol="onLayout"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="24" pc="268435614" symbol="onLayout"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="25" pc="268435636" symbol="onLayout"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="26" pc="268435661" symbol="onLayout"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="32" pc="268435684" symbol="onShow"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="36" pc="268435689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="38" pc="268435693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="39" pc="268435710" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="40" pc="268435727" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="41" pc="268435737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="42" pc="268435747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="43" pc="268435758" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="50" pc="268435771" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="53" pc="268435791" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="54" pc="268435822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="55" pc="268435846" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="57" pc="268435890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="59" pc="268435931" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="60" pc="268435955" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="62" pc="268436005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="64" pc="268436052" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="65" pc="268436076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="67" pc="268436126" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="69" pc="268436173" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="70" pc="268436197" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="72" pc="268436247" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="74" pc="268436294" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="75" pc="268436318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="77" pc="268436368" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="79" pc="268436415" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="80" pc="268436432" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="82" pc="268436482" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="86" pc="268436529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="87" pc="268436553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="89" pc="268436609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="91" pc="268436662" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="92" pc="268436686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="94" pc="268436742" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="96" pc="268436795" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="97" pc="268436819" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="99" pc="268436875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="101" pc="268436928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="102" pc="268436945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="104" pc="268437001" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="108" pc="268437054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="109" pc="268437085" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="110" pc="268437167" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="111" pc="268437255" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="112" pc="268437343" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="113" pc="268437431" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="114" pc="268437519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="117" pc="268437607" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="118" pc="268437638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="119" pc="268437712" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="120" pc="268437743" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="121" pc="268437823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="122" pc="268437883" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="123" pc="268437914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="126" pc="268437976" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="127" pc="268438016" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="128" pc="268438098" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="129" pc="268438171" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="130" pc="268438259" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="131" pc="268438332" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="132" pc="268438414" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="135" pc="268438487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="136" pc="268438527" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="137" pc="268438571" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="138" pc="268438647" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="139" pc="268438699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="140" pc="268438740" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="141" pc="268438781" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="142" pc="268438798" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="143" pc="268438805" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="144" pc="268438816" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="146" pc="268438829" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="147" pc="268438846" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="149" pc="268438896" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="150" pc="268438913" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="152" pc="268438963" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="153" pc="268439024" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="154" pc="268439041" symbol="onUpdate"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="160" pc="268439092" symbol="onHide"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="164" pc="268439097" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\simon.neugebauer\\eclipse-workspace\\MyFirstWatchFace\\.\\source\\MyFirstWatchFaceView.mc" lineNum="168" pc="268439102" symbol="onEnterSleep"/>
+<entry filename="Rez" lineNum="18" pc="268439107" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268439119" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268439275" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268439300" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268439352" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268439398" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268439539" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268439564" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268439616" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry field="true" id="12" symbol="centerY"/>
-<entry field="true" id="11" symbol="centerX"/>
+<entry field="true" id="13" symbol="centerY"/>
+<entry field="true" id="12" symbol="centerX"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="10" object="true" symbol="MyFirstWatchFaceView"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="17" symbol="AppName"/>
+<entry field="true" id="18" symbol="AppName"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
-<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry field="true" id="17" symbol="LauncherIcon"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="9" object="true" symbol="MyFirstWatchFaceApp"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="11" symbol="watchWidth"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
-<entry field="true" id="13" symbol="distanceX"/>
-<entry id="15" module="true" symbol="Layouts"/>
+<entry field="true" id="14" symbol="distanceX"/>
+<entry id="16" module="true" symbol="Layouts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry id="14" module="true" symbol="Menus"/>
+<entry id="15" module="true" symbol="Menus"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
 <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
-<entry endPc="268435671" name="dc" stackId="1" startPc="268435554"/>
-<entry endPc="268437937" name="view" stackId="7" startPc="268435680"/>
-<entry endPc="268437937" name="hour" stackId="5" startPc="268435680"/>
-<entry endPc="268437937" name="activityInfo" stackId="3" startPc="268435680"/>
-<entry endPc="268437937" name="timeString" stackId="6" startPc="268435680"/>
-<entry endPc="268437937" name="clockTime" stackId="2" startPc="268435680"/>
-<entry endPc="268437937" name="minute" stackId="4" startPc="268435680"/>
-<entry endPc="268437938" name="dc" stackId="1" startPc="268435676"/>
-<entry endPc="268438489" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268437965"/>
-<entry endPc="268438489" name="rez_cmp_local_bitmap_HelloLabel_fontHeight" stackId="5" startPc="268437965"/>
-<entry endPc="268438489" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268437965"/>
-<entry endPc="268438489" name="rez_cmp_local_bitmap_HelloLabel" stackId="4" startPc="268437965"/>
-<entry endPc="268438490" name="dc" stackId="1" startPc="268437953"/>
+<entry endPc="268435684" name="dc" stackId="1" startPc="268435554"/>
+<entry endPc="268439091" name="systemStats" stackId="10" startPc="268435693"/>
+<entry endPc="268439091" name="minute" stackId="4" startPc="268435693"/>
+<entry endPc="268439091" name="clockTime" stackId="2" startPc="268435693"/>
+<entry endPc="268439091" name="hour" stackId="5" startPc="268435693"/>
+<entry endPc="268439091" name="activityInfo" stackId="3" startPc="268435693"/>
+<entry endPc="268439091" name="statusString" stackId="9" startPc="268435693"/>
+<entry endPc="268439091" name="systemSettings" stackId="8" startPc="268435693"/>
+<entry endPc="268439091" name="today" stackId="6" startPc="268435693"/>
+<entry endPc="268439091" name="dateString" stackId="7" startPc="268435693"/>
+<entry endPc="268439092" name="dc" stackId="1" startPc="268435689"/>
+<entry endPc="268439643" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268439119"/>
+<entry endPc="268439643" name="rez_cmp_local_bitmap_HelloLabel_fontHeight" stackId="5" startPc="268439119"/>
+<entry endPc="268439643" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268439119"/>
+<entry endPc="268439643" name="rez_cmp_local_bitmap_HelloLabel" stackId="4" startPc="268439119"/>
+<entry endPc="268439644" name="dc" stackId="1" startPc="268439107"/>
 </localVars>
 <annotations/>
 <functions>
@@ -179,13 +211,13 @@
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry offset="166" parentId="globals" symbolId="MyFirstWatchFaceView" type="class"/>
-<dataEntry offset="285" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="364" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="403" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="434" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="465" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="496" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="535" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="574" parentId="globals" symbolId="MyFirstWatchFaceApp" type="class"/>
+<dataEntry offset="293" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="372" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="411" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="442" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="473" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="504" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="543" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="582" parentId="globals" symbolId="MyFirstWatchFaceApp" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>

@@ -3,9 +3,12 @@ using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
 using Toybox.ActivityMonitor as Monitor;
+using Toybox.Time as Time;
+using Toybox.Time.Gregorian as Gregorian;
 
 class MyFirstWatchFaceView extends Ui.WatchFace {
 
+	var watchWidth;
 	var centerX;
 	var centerY;
 	var distanceX;
@@ -17,9 +20,10 @@ class MyFirstWatchFaceView extends Ui.WatchFace {
     // Load your resources here
     function onLayout(dc) {
         setLayout(Rez.Layouts.WatchFace(dc));
-        centerX = dc.getWidth() / 2;
+        watchWidth = dc.getWidth();
+        centerX = watchWidth / 2;
         centerY = dc.getHeight() / 2;
-        distanceX = dc.getWidth() / 13.0;
+        distanceX = watchWidth / 13.0;
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -38,15 +42,15 @@ class MyFirstWatchFaceView extends Ui.WatchFace {
         if(hour > 12){
         	hour -= 12;
        	}
-        var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
+        /*var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
         var view = View.findDrawableById("TimeLabel");
-        view.setText(timeString);
+        view.setText(timeString);*/
 
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
         
 		// Draw the rectangles for the minutes
-        dc.setColor(Graphics.COLOR_BLUE, Graphics.COLOR_BLUE);
+        dc.setColor(0xFFFFFF, Graphics.COLOR_BLUE);
         if((minute >> 5) & 1 == 1){
         	dc.fillRectangle(distanceX, centerY, distanceX, 20);
         } else {
@@ -109,10 +113,45 @@ class MyFirstWatchFaceView extends Ui.WatchFace {
         dc.drawText(9 * distanceX + distanceX / 2, centerY + 20, Graphics.FONT_XTINY, "2", Graphics.TEXT_JUSTIFY_CENTER);
         dc.drawText(11 * distanceX + distanceX / 2, centerY + 20, Graphics.FONT_XTINY, "1", Graphics.TEXT_JUSTIFY_CENTER);
         
-        // Draw the steps
+        // Draw activity bars
+        dc.setColor(0x55AA55, Graphics.COLOR_BLACK);
+        dc.fillRectangle(0, centerY + 43, ((watchWidth * 1.0) / activityInfo.stepGoal) * (activityInfo.steps * 1.0), 19);
         dc.setColor(0xFF5500, Graphics.COLOR_BLACK);
-        dc.drawText(distanceX / 2, centerY + 40, Graphics.FONT_SMALL, activityInfo.steps + "/" + activityInfo.stepGoal, Graphics.TEXT_JUSTIFY_LEFT);
-        dc.drawText(centerX + distanceX / 2, centerY + 40, Graphics.FONT_SMALL, activityInfo.activeMinutesWeek + "/" + activityInfo.activeMinutesWeelGoal, Graphics.TEXT_JUSTIFY_LEFT);
+        dc.fillRectangle(0, centerY + 63, ((watchWidth * 1.0) / activityInfo.activeMinutesWeekGoal) * (activityInfo.activeMinutesWeek.total * 1.0), 19);
+        Sys.println(((watchWidth * 1.0) / activityInfo.activeMinutesWeekGoal) * (activityInfo.activeMinutesWeek.total * 1.0));
+        dc.setColor(0x00AAAA, Graphics.COLOR_BLACK);
+        dc.fillRectangle(0, centerY + 83, watchWidth / activityInfo.floorsClimbedGoal * activityInfo.floorsClimbed, 19);
+        
+        // Draw the activity info
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        dc.drawText(3, centerY + 40, Graphics.FONT_SMALL, activityInfo.steps + "/" + activityInfo.stepGoal, Graphics.TEXT_JUSTIFY_LEFT);
+        dc.drawText(watchWidth - 3, centerY + 40, Graphics.FONT_SMALL, " steps", Graphics.TEXT_JUSTIFY_RIGHT);
+        dc.drawText(3, centerY + 60, Graphics.FONT_SMALL, activityInfo.activeMinutesWeek.total + "/" + activityInfo.activeMinutesWeekGoal, Graphics.TEXT_JUSTIFY_LEFT);
+        dc.drawText(watchWidth - 3, centerY + 60, Graphics.FONT_SMALL, " minutes", Graphics.TEXT_JUSTIFY_RIGHT);
+        dc.drawText(3, centerY + 80, Graphics.FONT_SMALL, activityInfo.floorsClimbed + "/" + activityInfo.floorsClimbedGoal, Graphics.TEXT_JUSTIFY_LEFT);
+        dc.drawText(watchWidth - 3, centerY + 80, Graphics.FONT_SMALL, " floors", Graphics.TEXT_JUSTIFY_RIGHT);
+        
+        // Draw the status bar
+        dc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_BLACK);
+        var today = Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
+        var dateString = Lang.format("$1$ $2$ $3$", [today.day_of_week, today.day, today.month]);
+        dc.drawText(3, 0, Graphics.FONT_XTINY, dateString, Graphics.TEXT_JUSTIFY_LEFT);
+        dc.drawRectangle(watchWidth - 25, 5, 20, 11);
+        dc.drawRectangle(watchWidth - 5, 8, 2, 5);
+        var systemSettings = Sys.getDeviceSettings();
+        var statusString = "";
+        if(systemSettings.phoneConnected){
+        	statusString += "B";
+        }
+        if(systemSettings.alarmCount > 0){
+        	statusString += Lang.format("A$1$", [systemSettings.alarmCount]);
+        }
+        if(systemSettings.notificationCount > 0){
+        	statusString += Lang.format("N$1$", [systemSettings.notificationCount]);
+        }
+        dc.drawText(watchWidth - 28, 0, Graphics.FONT_XTINY, statusString, Graphics.TEXT_JUSTIFY_RIGHT);
+        var systemStats = Sys.getSystemStats();
+        dc.fillRectangle(watchWidth - 25, 5, (20 / 100.0) * systemStats.battery, 11);       
     }
 
     // Called when this View is removed from the screen. Save the
